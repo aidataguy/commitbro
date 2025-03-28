@@ -196,12 +196,6 @@ Uses `hatchling` and `pyproject.toml` (PEP 621).
 pip install -e .
 ```
 
-### Build for PyPI:
-```bash
-pip install build
-python -m build
-```
-
 ---
 
 ## 🧪 Roadmap
